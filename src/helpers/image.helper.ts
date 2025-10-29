@@ -7,7 +7,7 @@ export const loadImage = (imageURL?: string) => {
   }
 
   const baseURL =
-    process.env.NEXT_PUBLIC_API_SERVICE || "https://api.uydatalim.uzedu.uz";
+    process.env.NEXT_PUBLIC_API_SERVICE || "https://api.t-uydatalim.uzedu.uz";
 
   // Agar imageURL / bilan boshlanmasa, qo'shish
   const formattedURL = imageURL.startsWith("/") ? imageURL : `/${imageURL}`;

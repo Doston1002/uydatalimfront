@@ -8,7 +8,7 @@ export const siteConfig = {
       "uyda ta'lim, uyda-talim.uz, bepul dasturlash,  doston po'latov, dostondev",
     ogImage: "https://media.graphassets.com/BW4BRUnCQJWCazTdKnVQ",
   },
-  baseURL: "https://uydatalim.uzedu.uz",
+  baseURL: "t-uydatalim.uzedu.uz",
   logo: "/images/logoDark.png",
   logoText: "uyda-talim",
   favicon: "/images/logoDark.png",

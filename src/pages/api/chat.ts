@@ -9,7 +9,7 @@ export default async function handler(
 
     try {
       const response = await fetch(
-        "https://api.uydatalim.uzedu.uz/api/chat/ask",
+        "https://api.t-uydatalim.uzedu.uz/api/chat/ask",
         {
           method: "POST",
           headers: {

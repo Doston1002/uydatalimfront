@@ -6,7 +6,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "api.uydatalim.uzedu.uz", // barcha uploads ichidagi papkalarga ruxsat beradi
+        hostname: "api.t-uydatalim.uzedu.uz", // barcha uploads ichidagi papkalarga ruxsat beradi
       },
       {
         protocol: "https",
